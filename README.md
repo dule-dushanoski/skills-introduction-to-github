@@ -1,3 +1,5 @@
+![example workflow](https://github.com/dule-dushanoski/skills-introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
+
 <div align="center">
 
 # 🎉 Congratulations dule-dushanoski! 🎉
