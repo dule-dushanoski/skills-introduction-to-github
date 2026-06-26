@@ -1,5 +1,3 @@
-![example workflow](https://github.com/dule-dushanoski/skills-introduction-to-github/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
-
 <div align="center">
 
 # 🎉 Congratulations dule-dushanoski! 🎉
@@ -26,7 +24,7 @@
 
 **Keep the momentum going!**
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/dule-dushanoski/skills-introduction-to-github/issues/1)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/dule-dushanoski/skills-introduction-to-github/issues/4)
 [![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
 
 *There's no better way to learn than building things!* 🚀
